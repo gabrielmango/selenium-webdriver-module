@@ -20,7 +20,7 @@ To get started, follow these simple steps:
 1. **Clone the Repository**: To get a copy of this project on your computer, open the terminal and execute the following command:
 
     ```shell
-    git clone https://github.com/gabrielhmango/selenium-webdriver-module.git
+    git clone https://github.com/gabrielmango/selenium-webdriver-module.git
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required libraries using the following command:
